@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "hello",
+    "type": "tv.yikesaiting.springbootdemo.HelloServiceProperties",
+    "sourceType": "tv.yikesaiting.springbootdemo.HelloServiceProperties"
+  }],
+  "properties": [{
+    "name": "hello.msg",
+    "type": "java.lang.String",
+    "sourceType": "tv.yikesaiting.springbootdemo.HelloServiceProperties",
+    "defaultValue": "world"
+  }],
+  "hints": []
+}

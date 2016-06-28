@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+tv/yikesaiting/springbootdemo/HelloServiceAutoConfiguration.class
+tv/yikesaiting/springbootdemo/HelloServiceProperties.class
+tv/yikesaiting/springbootdemo/HelloService.class
